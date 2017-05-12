@@ -10330,7 +10330,10 @@ return jQuery;
 /* 1 */
 /***/ (function(module, exports, __webpack_require__) {
 
-const $ = __webpack_require__(0);
+"use strict";
+
+
+var $ = __webpack_require__(0);
 $('#target').html('hey ya!!!, can you see this with the w flag???/');
 
 /***/ })
