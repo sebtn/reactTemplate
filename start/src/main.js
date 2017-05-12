@@ -1,5 +1,6 @@
 let React = require('react')
 let ReactDOM = require('react-dom')
+require('./style.css')
 
 class Message extends React.Component {
 	render() {
