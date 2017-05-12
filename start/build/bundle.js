@@ -9553,8 +9553,7 @@ var App = function (_React$Component) {
 	_createClass(App, [{
 		key: 'render',
 		value: function render() {
-			return;
-			React.createElement(
+			return React.createElement(
 				'div',
 				null,
 				React.createElement(
@@ -9574,7 +9573,7 @@ var App = function (_React$Component) {
 	return App;
 }(React.Component);
 
-ReactDOM.render(React.createElement(App, null), document.getElementById('react-component'));
+ReactDOM.render(React.createElement(App, null), document.getElementById('react-container'));
 
 /***/ }),
 /* 83 */
