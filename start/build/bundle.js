@@ -9559,12 +9559,17 @@ var App = function (_React$Component) {
 				React.createElement(
 					'h1',
 					null,
-					'Webpack server Using'
+					'Webpack ready on hot reload'
+				),
+				React.createElement(
+					'h3',
+					null,
+					'React ready dev server'
 				),
 				React.createElement(
 					'p',
 					null,
-					'Nice template to use'
+					'kinda magical'
 				)
 			);
 		}
